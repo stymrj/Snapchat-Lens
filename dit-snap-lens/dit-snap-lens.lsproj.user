@@ -1,0 +1,108 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "ArchitectsDaughter"
+                ],
+                [
+                    "Crisp Warm"
+                ],
+                [
+                    "DancingScript"
+                ],
+                [
+                    "Hitchcut-Regular"
+                ],
+                [
+                    "LEMONMILK-Regular"
+                ],
+                [
+                    "Merriweather"
+                ],
+                [
+                    "Million Dreams"
+                ],
+                [
+                    "Pacifico"
+                ],
+                [
+                    "Storyboo"
+                ],
+                [
+                    "StretchPro"
+                ],
+                [
+                    "VT323"
+                ],
+                [
+                    "dit"
+                ],
+                [
+                    "gibroma"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "101:100",
+                "1517446348227994:84813"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1713092978664285:1805873": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle/post_effects/CrispWarm.png",
+            "1713093151505247:1836353": "F:/Delta Batch/Snapchat-788538273.jpg",
+            "1713093299166289:1893813": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle//Presets/Fonts/Merriweather-Regular.ttf",
+            "1713093338496330:1907687": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle//Presets/Fonts/Pacifico-Regular.ttf",
+            "1713093348394705:1910998": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle//Presets/Fonts/VT323-Regular.ttf",
+            "1713093360941886:1915298": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle//Presets/Fonts/DancingScript-Regular.ttf",
+            "1713093541340951:2009914": "C:/Users/LENOVO/Desktop/Fonts/ArchitectsDaughter.ttf",
+            "1713093541498488:2010201": "C:/Users/LENOVO/Desktop/Fonts/gibroma.otf",
+            "1713093541783655:2010668": "C:/Users/LENOVO/Desktop/Fonts/Hitchcut-Regular.ttf",
+            "1713093542021784:2011137": "C:/Users/LENOVO/Desktop/Fonts/LEMONMILK-Regular.otf",
+            "1713093542263895:2011497": "C:/Users/LENOVO/Desktop/Fonts/Million Dreams.otf",
+            "1713093542499653:2011855": "C:/Users/LENOVO/Desktop/Fonts/Storyboo.TTF",
+            "1713093542729482:2012327": "C:/Users/LENOVO/Desktop/Fonts/StretchPro.otf"
+        }
+    },
+    "InspectorController": {
+        "selection": null
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

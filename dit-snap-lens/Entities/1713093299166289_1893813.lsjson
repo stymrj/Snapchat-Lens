@@ -1,0 +1,33 @@
+{
+    "1713093299156544:1893812": {
+        "IFileManager": {
+            "path": "Files/File_1713093299156544_1893812.ttf"
+        }
+    },
+    "1713093299166289:1893813": {
+        "IResourceController": {
+            "name": "Merriweather",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713093299166722:1893814",
+            "fileId": "1713093299156544:1893812",
+            "publicId": "1713093299175036:1893820",
+            "expected_hash": "f96a44b40f99ae4b63f275f1142f7c98"
+        },
+        "IResourceManager": {
+            "uid": "1713093299166722:1893814",
+            "name": "Files/File_1713093299156544_1893812.ttf",
+            "flags": 1
+        }
+    },
+    "1713093299175036:1893820": {
+        "IResourceController": {
+            "public": {
+                "path": "Merriweather.ttf",
+                "hash": "f96a44b40f99ae4b63f275f1142f7c98"
+            }
+        }
+    }
+}

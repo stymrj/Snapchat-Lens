@@ -1,0 +1,33 @@
+{
+    "1713093541322103:2009905": {
+        "IFileManager": {
+            "path": "Files/File_1713093541322103_2009905.ttf"
+        }
+    },
+    "1713093541340951:2009914": {
+        "IResourceController": {
+            "name": "ArchitectsDaughter",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713093541340993:2009915",
+            "fileId": "1713093541322103:2009905",
+            "publicId": "1713093541349094:2009920",
+            "expected_hash": "707e21dfd85e56d9bcdf033e713c1a6a"
+        },
+        "IResourceManager": {
+            "uid": "1713093541340993:2009915",
+            "name": "Files/File_1713093541322103_2009905.ttf",
+            "flags": 1
+        }
+    },
+    "1713093541349094:2009920": {
+        "IResourceController": {
+            "public": {
+                "path": "ArchitectsDaughter.ttf",
+                "hash": "707e21dfd85e56d9bcdf033e713c1a6a"
+            }
+        }
+    }
+}

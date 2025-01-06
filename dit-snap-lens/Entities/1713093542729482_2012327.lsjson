@@ -1,0 +1,33 @@
+{
+    "1713093542707435:2012318": {
+        "IFileManager": {
+            "path": "Files/File_1713093542707435_2012318.otf"
+        }
+    },
+    "1713093542729482:2012327": {
+        "IResourceController": {
+            "name": "StretchPro",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713093542729517:2012328",
+            "fileId": "1713093542707435:2012318",
+            "publicId": "1713093542735492:2012333",
+            "expected_hash": "61072ed99653a07fa792aa5f2a75cae8"
+        },
+        "IResourceManager": {
+            "uid": "1713093542729517:2012328",
+            "name": "Files/File_1713093542707435_2012318.otf",
+            "flags": 1
+        }
+    },
+    "1713093542735492:2012333": {
+        "IResourceController": {
+            "public": {
+                "path": "StretchPro.otf",
+                "hash": "61072ed99653a07fa792aa5f2a75cae8"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1713093541765849:2010667": {
+        "IFileManager": {
+            "path": "Files/File_1713093541765849_2010667.ttf"
+        }
+    },
+    "1713093541783655:2010668": {
+        "IResourceController": {
+            "name": "Hitchcut-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713093541783685:2010669",
+            "fileId": "1713093541765849:2010667",
+            "publicId": "1713093541790007:2010674",
+            "expected_hash": "8b53ad29531b58b98d3cb2950d922ec6"
+        },
+        "IResourceManager": {
+            "uid": "1713093541783685:2010669",
+            "name": "Files/File_1713093541765849_2010667.ttf",
+            "flags": 1
+        }
+    },
+    "1713093541790007:2010674": {
+        "IResourceController": {
+            "public": {
+                "path": "Hitchcut-Regular.ttf",
+                "hash": "8b53ad29531b58b98d3cb2950d922ec6"
+            }
+        }
+    }
+}

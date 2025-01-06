@@ -1,0 +1,33 @@
+{
+    "1713093541480272:2010194": {
+        "IFileManager": {
+            "path": "Files/File_1713093541480272_2010194.otf"
+        }
+    },
+    "1713093541498488:2010201": {
+        "IResourceController": {
+            "name": "gibroma",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713093541498524:2010202",
+            "fileId": "1713093541480272:2010194",
+            "publicId": "1713093541506885:2010209",
+            "expected_hash": "ffac4b4ba1b0c4b98bbfa2bd3c96e8d3"
+        },
+        "IResourceManager": {
+            "uid": "1713093541498524:2010202",
+            "name": "Files/File_1713093541480272_2010194.otf",
+            "flags": 1
+        }
+    },
+    "1713093541506885:2010209": {
+        "IResourceController": {
+            "public": {
+                "path": "gibroma.otf",
+                "hash": "ffac4b4ba1b0c4b98bbfa2bd3c96e8d3"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1713093542470756:2011846": {
+        "IFileManager": {
+            "path": "Files/File_1713093542470756_2011846.ttf"
+        }
+    },
+    "1713093542499653:2011855": {
+        "IResourceController": {
+            "name": "Storyboo",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713093542499694:2011856",
+            "fileId": "1713093542470756:2011846",
+            "publicId": "1713093542508202:2011861",
+            "expected_hash": "70184b1ed4fdfffce9ce043fb96c4f21"
+        },
+        "IResourceManager": {
+            "uid": "1713093542499694:2011856",
+            "name": "Files/File_1713093542470756_2011846.ttf",
+            "flags": 1
+        }
+    },
+    "1713093542508202:2011861": {
+        "IResourceController": {
+            "public": {
+                "path": "Storyboo.ttf",
+                "hash": "70184b1ed4fdfffce9ce043fb96c4f21"
+            }
+        }
+    }
+}
