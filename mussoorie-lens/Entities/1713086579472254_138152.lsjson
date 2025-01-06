@@ -1,0 +1,79 @@
+{
+    "1713086579441698:138143": {
+        "IFileManager": {
+            "path": "Files/File_1713086579441698_138143.pvr"
+        }
+    },
+    "1713086579472254:138152": {
+        "IResourceController": {
+            "name": "AdobeStock_253282084_Preview",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713086579539057:138169",
+            "fileId": "1713086579441698:138143",
+            "originalId": "1713086579541146:138174",
+            "publicId": "1713086579778169:138232",
+            "expected_hash": "7db6f38e0eb53e082332e2b6ae200b18",
+            "additional": {
+                "originHash": "f1bb9249482369881506463bf78ede27"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713086579539057:138169",
+            "name": "Files/File_1713086579441698_138143.jpeg",
+            "flags": 1
+        }
+    },
+    "1713086579539057:138169": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f1bb9249482369881506463bf78ede27"
+                    },
+                    "v": "1713086620422817:148563"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "288920",
+                "compressedSize": "225253",
+                "extension": "jpeg",
+                "originalRAM": "2303904",
+                "originalSize": "244086",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713086579579510:138183"
+        }
+    },
+    "1713086579541146:138174": {
+        "IFileManager": {
+            "path": "Files/File_1713086579541146_138174.jpeg"
+        }
+    },
+    "1713086579579510:138183": {
+        "IFileManager": {
+            "path": "Files/File_1713086579579510_138183.jpeg"
+        }
+    },
+    "1713086579778169:138232": {
+        "IResourceController": {
+            "public": {
+                "path": "AdobeStock_253282084_Preview.jpeg",
+                "hash": "f1bb9249482369881506463bf78ede27"
+            }
+        }
+    },
+    "1713086620422817:148563": {
+        "IFileManager": {
+            "path": "Files/File_1713086620422817_148563.pvr"
+        }
+    }
+}

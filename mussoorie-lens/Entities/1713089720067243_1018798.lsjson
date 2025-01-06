@@ -1,0 +1,33 @@
+{
+    "1713089720034525:1018789": {
+        "IFileManager": {
+            "path": "Files/File_1713089720034525_1018789.otf"
+        }
+    },
+    "1713089720067243:1018798": {
+        "IResourceController": {
+            "name": "LEMONMILK-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713089720067284:1018799",
+            "fileId": "1713089720034525:1018789",
+            "publicId": "1713089720081089:1018810",
+            "expected_hash": "be29f3c5ccd30b97f9c394a02c9ce5d7"
+        },
+        "IResourceManager": {
+            "uid": "1713089720067284:1018799",
+            "name": "Files/File_1713089720034525_1018789.otf",
+            "flags": 1
+        }
+    },
+    "1713089720081089:1018810": {
+        "IResourceController": {
+            "public": {
+                "path": "LEMONMILK-Regular.otf",
+                "hash": "be29f3c5ccd30b97f9c394a02c9ce5d7"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1713089786592950:1038902": {
+        "IFileManager": {
+            "path": "Files/File_1713089786592950_1038902.ttf"
+        }
+    },
+    "1713089786643526:1038917": {
+        "IResourceController": {
+            "name": "Pacifico",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713089786643584:1038918",
+            "fileId": "1713089786592950:1038902",
+            "publicId": "1713089786654851:1038923",
+            "expected_hash": "324944d6dae53ea48a648b1d44ec78c3"
+        },
+        "IResourceManager": {
+            "uid": "1713089786643584:1038918",
+            "name": "Files/File_1713089786592950_1038902.ttf",
+            "flags": 1
+        }
+    },
+    "1713089786654851:1038923": {
+        "IResourceController": {
+            "public": {
+                "path": "Pacifico.ttf",
+                "hash": "324944d6dae53ea48a648b1d44ec78c3"
+            }
+        }
+    }
+}

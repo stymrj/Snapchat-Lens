@@ -1,0 +1,33 @@
+{
+    "1713089720420015:1019247": {
+        "IFileManager": {
+            "path": "Files/File_1713089720420015_1019247.otf"
+        }
+    },
+    "1713089720450624:1019250": {
+        "IResourceController": {
+            "name": "Million Dreams",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713089720450707:1019251",
+            "fileId": "1713089720420015:1019247",
+            "publicId": "1713089720466241:1019262",
+            "expected_hash": "cdee9c2d8ae669519eb832971c717e6b"
+        },
+        "IResourceManager": {
+            "uid": "1713089720450707:1019251",
+            "name": "Files/File_1713089720420015_1019247.otf",
+            "flags": 1
+        }
+    },
+    "1713089720466241:1019262": {
+        "IResourceController": {
+            "public": {
+                "path": "Million Dreams.otf",
+                "hash": "cdee9c2d8ae669519eb832971c717e6b"
+            }
+        }
+    }
+}
